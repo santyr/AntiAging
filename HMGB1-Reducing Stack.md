@@ -88,9 +88,7 @@
 - **500 mg**, **1–2x/day**, 15–30 minutes **before meals**
 
 ### Cycling:
-- Use for **4–8 weeks**, then take 1–2 weeks off  
-  OR  
-  Follow a **5 days on / 2 days off** pattern
+- Follow a **5 days on / 2 days off** pattern
 
 > ⚠️ *Avoid combining with diabetic medications unless supervised. Not for use during pregnancy.*
 
