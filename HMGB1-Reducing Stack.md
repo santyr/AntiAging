@@ -1,5 +1,5 @@
 # 🌿 Daily HMGB1-Reducing Stack  
-*A natural protocol using green tea, turmeric, resveratrol, cacao, olive oil, berberine, intermittent fasting, and black coffee to reduce HMGB1 expression, release, and inflammatory signaling.*
+*A natural protocol using green tea, turmeric, resveratrol, cacao, olive oil, berberine, sunlight, cold exposure, intermittent fasting, and strategic micronutrients to reduce HMGB1 expression, release, and inflammatory signaling.*
 
 ---
 
@@ -14,23 +14,45 @@
   - ✅ **Water**
   - ✅ **Electrolytes** (unsweetened)
 
-> 💡 *Fasting supports autophagy, insulin sensitivity, and suppresses HMGB1 expression through AMPK activation.*
+> 💡 *Supports autophagy, insulin sensitivity, and suppresses HMGB1 expression through AMPK activation.*
 
 ---
 
 ### 🔁 Optional Monthly Protocol: Monk Fast  
 **Start: Friday 7:00 PM → End: Sunday 7:00 AM (36 hours)**
 
-- No food for 36 hours
 - Only consume:
   - ✅ **Water**
-  - ✅ **Unsweetened green tea**
+  - ✅ **Green tea**
   - ✅ **Black coffee**
   - ✅ **Electrolytes**
-- Avoid intense exercise, social stress, and cognitive overload
-- Break the fast Sunday morning with a **small meal + Golden Green Shot**
+- Avoid intense physical/cognitive strain
+- Break the fast Sunday morning with a small meal + **Golden Green Shot**
 
-> 🧬 *Monk Fasts enhance autophagy and clear damaged proteins, supporting deep HMGB1 reset.*
+---
+
+## ☀️ Sunlight Exposure Strategy
+
+| Time of Day | Action                       | Benefit                                                        |
+|-------------|------------------------------|-----------------------------------------------------------------|
+| 🌅 Sunrise   | Go outside, face the sun     | Circadian reset, serotonin boost, sets melatonin rhythm        |
+| ☀️ Midday   | 10–15 min arms/face exposed  | Vitamin D synthesis, reduces HMGB1 expression, immune support  |
+| 🌇 Evening   | Spend 30–60 min outside      | Melatonin priming, cortisol wind-down, light tapering          |
+
+> 💡 *Use this time for gentle movement, reflection, or grounding (barefoot) to enhance effects.*
+
+---
+
+## 🧊 Cold Exposure Strategy (High Desert Adapted)
+
+| Method                         | Frequency      | Duration        | Notes                                                 |
+|--------------------------------|----------------|------------------|--------------------------------------------------------|
+| 🌅 Light clothing outdoors     | Daily (AM)     | 5–10 min         | Pair with sunrise exposure, nasal breathing recommended |
+| 🪟 Cool house (winter ~52°F)   | Daily          | 10–30 min        | Embrace cool ambient temps before heating              |
+| 🚿 Cool rinse (optional)       | 3–5x/week      | 30–60 sec        | End showers cool, especially post-activity             |
+| 🧘 Cold air + breathwork       | 2–3x/week      | 5–10 min         | Supports vagal tone, metabolic resilience              |
+
+> 💡 *Cold reduces inflammatory cytokines, lowers HMGB1 expression, activates brown fat, and improves mitochondrial resilience.*
 
 ---
 
@@ -38,8 +60,8 @@
 
 | Time     | Drink           | Notes                                  |
 |----------|------------------|-----------------------------------------|
-| 7:00 AM  | **Black coffee** | Supports AMPK, autophagy, mental focus |
-| 9:00 AM  | **Green tea**    | EGCG primes system before breaking fast |
+| 7:00 AM  | **Black coffee** | AMPK activation, focus, suppresses appetite |
+| 9:00 AM  | **Green tea**    | EGCG primes autophagy, anti-HMGB1 signal |
 
 ---
 
@@ -52,12 +74,7 @@
 - 1 tsp **extra virgin olive oil**
 - 200–250 mg **resveratrol**
 
-### Instructions:
-1. Brew green tea.
-2. Mix turmeric, black pepper, resveratrol, and olive oil in mug.
-3. Combine with tea, stir well and drink with your first meal.
-
-> 💡 *Blocks HMGB1 transcription, boosts antioxidant defenses, enhances absorption with olive oil + pepper.*
+> 💡 *Suppresses HMGB1 transcription, modulates inflammation, boosts absorption via oil and piperine.*
 
 ---
 
@@ -69,37 +86,24 @@
 - 1 cup **hot water** (~160–170°F)
 - *Optional*: pinch of **sea salt** or **cinnamon**
 
-### Instructions:
-1. Heat water (not boiling).
-2. Stir in cacao and olive oil until smooth.
-3. Add salt or cinnamon if desired.
-4. Drink slowly, ideally between lunch and dinner.
-
-> 💡 *Provides epicatechin and procyanidins to reduce HMGB1-linked inflammation; olive oil supports polyphenol absorption.*
+> 💡 *Supports vascular health, antioxidant tone, and HMGB1 suppression via epicatechin.*
 
 ---
 
 ## 🟡 Optional Add-On — Berberine
 
-### Use Case:
-- Suppresses HMGB1 release, improves insulin sensitivity, supports gut barrier and inflammation resolution
+### Dose:
+- **500 mg**, **1–2x/day**, 15–30 min before meals
 
-### Dosage:
-- **500 mg**, **1–2x/day**, 15–30 minutes **before meals**
+### Use Cases:
+- Suppresses HMGB1 release, supports insulin sensitivity, enhances gut barrier
 
-### Cycling:
-- Follow a **5 days on / 2 days off** pattern
-
-> ⚠️ *Avoid combining with diabetic medications unless supervised. Not for use during pregnancy.*
+> ⚠️ *Cycle: 4–8 weeks on, 1–2 weeks off or 5 days on / 2 days off.*
 
 ---
 
-## 🗓 Sample Daily Schedule (with 16:8 IF)
+## 🧪 Vitamin & Mineral Timing
 
-| Time        | Activity                                           |
-|-------------|----------------------------------------------------|
-| 7:00 PM     | Last meal of the day (dinner)                     |
-| 7:00–11:00 AM | **Fasting Window**: black coffee, green tea, water |
-| 10:45 AM    | **Berberine 500 mg** (before first meal)          |
-| 11:00 AM    | Break fast: **Golden Green Shot + lunch**         |
-| 4:00–6:00 PM| **Olive Cacao Drink**
+| Supplement     | Best Time         | With Food? | Notes                                                                 |
+|----------------|-------------------|------------|------------------------------------------------------------------------|
+| **B-Complex**  | 11:30 AM          | ✅ Yes     | Take after b
