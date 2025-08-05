@@ -102,6 +102,6 @@
 |-------------|----------------------------------------------------|
 | 7:00 PM     | Last meal of the day (dinner)                     |
 | 7:00–11:00 AM | **Fasting Window**: black coffee, green tea, water |
-| 11:00 AM    | Break fast: **Golden Green Shot + lunch**         |
 | 10:45 AM    | **Berberine 500 mg** (before first meal)          |
+| 11:00 AM    | Break fast: **Golden Green Shot + lunch**         |
 | 4:00–6:00 PM| **Olive Cacao Drink**
