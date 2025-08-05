@@ -1,9 +1,32 @@
-# 🌿 Daily HMGB1-Reducing Stack
-*A natural protocol using green tea, turmeric, resveratrol, and cacao — enhanced with olive oil for maximum absorption.*
+# 🌿 Daily HMGB1-Reducing Stack  
+*A natural protocol using green tea, turmeric, resveratrol, cacao, olive oil, berberine, and intermittent fasting to reduce HMGB1 expression, release, and inflammatory signaling.*
 
 ---
 
-## 🕗 Morning Stack — Golden Green Shot
+## 🧬 Fasting Component
+
+### ✅ Daily Protocol: 16:8 Intermittent Fasting
+- **Fast from 7:00 PM to 11:00 AM**
+- **Eating window: 11:00 AM to 7:00 PM**
+- Drink **green tea** and **water** during the fast
+- No calories, oils, cacao, or supplements until 11:00 AM
+
+> 💡 This supports autophagy, improves insulin sensitivity, and lowers HMGB1 expression and inflammatory signaling.
+
+---
+
+### 🔁 Optional Monthly Protocol: Monk Fast
+- **Duration**: ~36 hours
+- **Example**: Finish dinner Sunday 7:00 PM → eat again Tuesday 7:00 AM
+- Only **water, plain tea, electrolytes** allowed
+- Avoid workouts and heavy cognitive tasks on day 2
+- Break fast gently with a small meal + **Golden Green Shot**
+
+> 🧬 Purpose: Deep HMGB1 reset via full autophagy and anti-inflammatory gene expression shift.
+
+---
+
+## 🕗 11:00 AM (Breaking Fast) — Golden Green Shot
 
 ### Ingredients:
 - 1 cup **hot brewed green tea** (steep 5–7 minutes)
@@ -14,65 +37,67 @@
 
 ### Instructions:
 1. Brew green tea.
-2. In a cup or bowl, mix turmeric, black pepper, resveratrol, and olive oil.
-3. Pour in the hot tea and stir well.
-4. Drink with or after breakfast.
+2. Mix turmeric, black pepper, resveratrol, and olive oil.
+3. Stir well and drink with your first meal.
 
-> 💡 *Purpose*: Suppress HMGB1 release and transcription; boost bioavailability of key anti-inflammatory compounds.
+> 💡 *Purpose*: Blocks HMGB1 transcription, boosts antioxidant defenses, enhances bioavailability with oil and pepper.
 
 ---
 
-## 🕓 Afternoon or Evening — Olive Cacao Drink
+## 🕓 4:00–6:00 PM — Olive Cacao Drink
 
 ### Ingredients:
 - 1–2 tbsp **raw cacao powder**
 - 1 tsp **extra virgin olive oil**
-- 1 cup **hot water** (~160–170°F / ~70–75°C)
+- 1 cup **hot water** (~160–170°F)
 - *Optional*: pinch of **sea salt** or **cinnamon**
 
 ### Instructions:
-1. Heat water (do not boil).
+1. Heat water (not boiling).
 2. Stir in cacao and olive oil until smooth.
-3. Add optional salt or cinnamon if desired.
-4. Drink mindfully, ideally between meals.
+3. Add optional salt/cinnamon.
+4. Drink slowly between lunch and dinner.
 
-> 💡 *Purpose*: Antioxidant and anti-inflammatory effects via epicatechin; olive oil aids polyphenol absorption.
-
----
-
-## 🛏 Optional Evening Support
-
-| Compound      | Dose       | Function                          |
-|---------------|------------|-----------------------------------|
-| **Melatonin** | 1–3 mg     | Sleep support, HMGB1 regulation   |
-| **Magnesium** | 200–400 mg | Muscle relaxant, inflammation     |
+> 💡 *Purpose*: Provides epicatechin and procyanidins to reduce HMGB1-linked inflammation; olive oil supports absorption.
 
 ---
 
-## 🗓 Sample Daily Schedule
+## 🟡 Optional Add-On — Berberine
 
-| Time      | Stack                                   |
-|-----------|------------------------------------------|
-| Morning   | Golden Green Shot                        |
-| Midday    | Light meal or optional snack             |
-| Afternoon | Olive Cacao Drink                        |
-| Evening   | Optional melatonin/magnesium if needed   |
+### Use Case:
+- Reduces HMGB1 release, supports metabolic/gut health, lowers systemic inflammation
+
+### Dosage:
+- **500 mg**, **1–2x/day**, 15–30 minutes **before meals**
+
+### Cycling:
+- 4–8 weeks on, 1–2 weeks off  
+  OR  
+  5 days on, 2 days off (weekly)
+
+### Cautions:
+- May lower blood sugar — avoid combining with diabetic medications unless supervised
+- Avoid if pregnant or using macrolide antibiotics
 
 ---
 
-## 🧪 Optional Add-Ons
+## 🗓 Sample Daily Schedule (16:8 IF)
 
-| Supplement     | Use Case                              | Dose                  |
-|----------------|----------------------------------------|-----------------------|
-| **Glycyrrhizin** | Direct HMGB1 binding (short-term use) | 150–300 mg/day        |
-| **Berberine**   | Gut/metabolic inflammation            | 500 mg 1–2x/day pre-meals |
+| Time        | Activity                                     |
+|-------------|----------------------------------------------|
+| 7:00 PM     | Last meal of the day (dinner)               |
+| 7:00 PM–11AM| **Fasting**: only green tea, water           |
+| 11:00 AM    | Break fast: Golden Green Shot + lunch        |
+| 10:45 AM    | **Berberine 500 mg** (before first meal)     |
+| 4:00–6:00 PM| Olive Cacao Drink                            |
+| 6:30 PM     | **Berberine 500 mg** (optional 2nd dose)     |
+| 7:00 PM     | Dinner (last meal of the day)                |
 
 ---
 
-## ⚠️ Notes
+## ⚠️ Lifestyle Notes
 
-- Take all fat-soluble ingredients **with food or olive oil**.
-- Cycle supplements (e.g. 5 days on, 2 off) if used long-term.
-- Stay hydrated to support detoxification pathways.
-- Avoid processed sugar, seed oils, and alcohol — all of which increase HMGB1.
+- Take fat-soluble supplements (curcumin, resveratrol, cacao) **with olive oil and food**
+- Avoid sugar, processed seed oils, and alcohol
+- Stay hydrated — especially during fasting windows and Monk Fasts
 
