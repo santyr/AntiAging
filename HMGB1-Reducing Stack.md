@@ -54,8 +54,8 @@
 
 ### Instructions:
 1. Brew green tea.
-2. Mix turmeric, black pepper, resveratrol, and olive oil.
-3. Stir well and drink with your first meal.
+2. Mix turmeric, black pepper, resveratrol, and olive oil in mug.
+3. Combine with tea, stir well and drink with your first meal.
 
 > 💡 *Blocks HMGB1 transcription, boosts antioxidant defenses, enhances absorption with olive oil + pepper.*
 
