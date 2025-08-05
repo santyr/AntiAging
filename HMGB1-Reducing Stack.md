@@ -106,4 +106,34 @@
 
 | Supplement     | Best Time         | With Food? | Notes                                                                 |
 |----------------|-------------------|------------|------------------------------------------------------------------------|
-| **B-Complex**  | 11:30 AM          | ✅ Yes     | Take after b
+| **B-Complex**  | 11:30 AM          | ✅ Yes     | Take after breaking fast to support energy, methylation, and autophagy |
+| **Vitamin C**  | 11:30 AM or 4 PM  | ✅ Yes     | Combine with cacao or meal; supports redox and immune signaling        |
+| **Vitamin D**  | 12:30 PM (with lunch) | ✅ With fat | Mimics natural UVB rhythm, supports cytokine balance and HMGB1 suppression |
+| **Zinc**       | 6:30–7:00 PM      | ✅ Yes     | Best with dinner, reduces competition with other minerals               |
+| **Magnesium**  | 7:30–9:00 PM      | ✅ Optional| Promotes sleep, supports autophagy and inflammation recovery            |
+
+---
+
+## 🗓 Sample Daily Schedule
+
+| Time        | Activity                                           |
+|-------------|----------------------------------------------------|
+| 7:00 AM     | Black coffee + sunrise outside in light clothing  |
+| 9:00 AM     | Green tea                                          |
+| 11:00 AM    | Break fast: Golden Green Shot + meal              |
+| 11:30 AM    | B-complex + Vitamin C                              |
+| 12:30 PM    | Vitamin D (with fat at lunch)                      |
+| 4:30 PM     | Olive Cacao Drink + optional Vitamin C             |
+| 6:30 PM     | Zinc (with dinner)                                 |
+| 7:00 PM     | Last food (dinner)                                 |
+| 7:30–9:00 PM| Magnesium + low light wind-down                    |
+
+---
+
+## ⚠️ Final Lifestyle Notes
+
+- 🌿 Stay hydrated throughout the day
+- 🚫 Avoid refined sugar, seed oils, alcohol
+- 🧘 Breathe deeply during cold/sun exposure to support vagal tone
+- 💤 Sleep in total darkness and keep bedtime regular
+
