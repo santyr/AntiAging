@@ -49,7 +49,6 @@
 |--------------------------------|----------------|------------------|--------------------------------------------------------|
 | 🌅 Light clothing outdoors     | Daily (AM)     | 5–10 min         | Pair with sunrise exposure, nasal breathing recommended |
 | 🪟 Cool house (winter ~52°F)   | Daily          | 10–30 min        | Embrace cool ambient temps before heating              |
-| 🚿 Cool rinse (optional)       | 3–5x/week      | 30–60 sec        | End showers cool, especially post-activity             |
 | 🧘 Cold air + breathwork       | 2–3x/week      | 5–10 min         | Supports vagal tone, metabolic resilience              |
 
 > 💡 *Cold reduces inflammatory cytokines, lowers HMGB1 expression, activates brown fat, and improves mitochondrial resilience.*
