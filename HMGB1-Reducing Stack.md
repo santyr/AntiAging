@@ -1,5 +1,21 @@
 # 🌿 Daily HMGB1-Reducing Stack  
-*A natural protocol using green tea, turmeric, resveratrol, cacao, olive oil, berberine, sunlight, cold exposure, intermittent fasting, and strategic micronutrients to reduce HMGB1 expression, release, and inflammatory signaling.*
+*A natural protocol using green tea, turmeric, resveratrol, cacao, olive oil, berberine, sunlight, cold exposure, intermittent fasting, and targeted micronutrients to reduce HMGB1 expression and systemic inflammation—adapted for weight maintenance or gain.*
+
+---
+
+## ⚖️ Weight Maintenance & Muscle Preservation
+
+You are currently lean (6'0", 150 lbs, age 57). This protocol is adapted to **prevent unintended weight loss**, support **anabolic resilience**, and retain all anti-inflammatory and anti-aging benefits.
+
+| Strategy              | Action                                                            |
+|-----------------------|-------------------------------------------------------------------|
+| 🍽️ Caloric Density    | Eat **larger meals** within the 16:8 window. Add a **late mini-meal**. |
+| 🥬 Protein Sources     | Focus on **eggs, poultry, fish, fermented dairy, legumes, tofu**  |
+| 🥑 Healthy Fats        | Include **olive oil, tahini, nuts, seeds, avocado**               |
+| 🍠 Complex Carbs       | Add **root vegetables, lentils, quinoa, whole grains**            |
+| 🏋️ Light Resistance    | Optional: 2–3x/week light training to maintain lean mass           |
+| 🧊 Cold Exposure       | Keep **brief and mild**                                            |
+| 🛑 Monk Fasting        | Do **quarterly only**                                              |
 
 ---
 
@@ -9,49 +25,44 @@
 - **Fasting window**: 7:00 PM – 11:00 AM
 - **Eating window**: 11:00 AM – 7:00 PM
 - During the fast, you may drink:
-  - ✅ **Black coffee** (no cream, sugar, or oils)
+  - ✅ **Black coffee**
   - ✅ **Green tea**
   - ✅ **Water**
   - ✅ **Electrolytes** (unsweetened)
 
-> 💡 *Supports autophagy, insulin sensitivity, and suppresses HMGB1 expression through AMPK activation.*
-
 ---
 
-### 🔁 Optional Monthly Protocol: Monk Fast  
-**Start: Friday 7:00 PM → End: Sunday 7:00 AM (36 hours)**
+### 🔁 Optional Quarterly Protocol: Monk Fast  
+**Once every 3 months only**  
+**Example**: Friday 7:00 PM → Sunday 7:00 AM (36 hours)
 
-- Only consume:
-  - ✅ **Water**
-  - ✅ **Green tea**
-  - ✅ **Black coffee**
-  - ✅ **Electrolytes**
-- Avoid intense physical/cognitive strain
-- Break the fast Sunday morning with a small meal + **Golden Green Shot**
+- Consume only:
+  - ✅ Water
+  - ✅ Green tea
+  - ✅ Black coffee
+  - ✅ Electrolytes
+- Avoid stressors
+- Break fast gently Sunday morning with a small, balanced meal + Golden Green Shot
 
 ---
 
 ## ☀️ Sunlight Exposure Strategy
 
-| Time of Day | Action                       | Benefit                                                        |
-|-------------|------------------------------|-----------------------------------------------------------------|
-| 🌅 Sunrise   | Go outside, face the sun     | Circadian reset, serotonin boost, sets melatonin rhythm        |
-| ☀️ Midday   | 10–15 min arms/face exposed  | Vitamin D synthesis, reduces HMGB1 expression, immune support  |
-| 🌇 Evening   | Spend 30–60 min outside      | Melatonin priming, cortisol wind-down, light tapering          |
-
-> 💡 *Use this time for gentle movement, reflection, or grounding (barefoot) to enhance effects.*
+| Time       | Action                    | Benefit                                                    |
+|------------|---------------------------|-------------------------------------------------------------|
+| 🌅 Sunrise  | Go outside in light clothing | Circadian reset, cortisol alignment, brown fat trigger    |
+| ☀️ Midday  | 10–15 min arms/face        | Vitamin D production, immune modulation, HMGB1 suppression |
+| 🌇 Evening  | 30–60 min outdoors         | Pre-melatonin taper, lowers nighttime cortisol              |
 
 ---
 
-## 🧊 Cold Exposure Strategy (High Desert Adapted)
+## 🧊 Cold Exposure Strategy (Mild, High Desert Adaptation)
 
-| Method                         | Frequency      | Duration        | Notes                                                 |
-|--------------------------------|----------------|------------------|--------------------------------------------------------|
-| 🌅 Light clothing outdoors     | Daily (AM)     | 5–10 min         | Pair with sunrise exposure, nasal breathing recommended |
-| 🪟 Cool house (winter ~52°F)   | Daily          | 10–30 min        | Embrace cool ambient temps before heating              |
-| 🧘 Cold air + breathwork       | 2–3x/week      | 5–10 min         | Supports vagal tone, metabolic resilience              |
-
-> 💡 *Cold reduces inflammatory cytokines, lowers HMGB1 expression, activates brown fat, and improves mitochondrial resilience.*
+| Method                       | Frequency   | Duration    | Notes                                              |
+|------------------------------|-------------|-------------|-----------------------------------------------------|
+| Sunrise in light clothes     | Daily       | 5–10 min    | Combine with sun exposure and breathwork            |
+| Winter indoor cool temps (~52°F) | Daily   | 10–30 min   | Ambient exposure in morning before heating          |
+| ❄️ Intensity                | Mild only   | —           | Avoid extreme cold (e.g., ice baths, cold plunges)  |
 
 ---
 
@@ -59,57 +70,78 @@
 
 | Time     | Drink           | Notes                                  |
 |----------|------------------|-----------------------------------------|
-| 7:00 AM  | **Black coffee** | AMPK activation, focus, suppresses appetite |
-| 9:00 AM  | **Green tea**    | EGCG primes autophagy, anti-HMGB1 signal |
+| 7:00 AM  | **Black coffee** | AMPK activation, focus, appetite control |
+| 9:00 AM  | **Green tea**    | EGCG primes autophagy, anti-HMGB1 tone |
 
 ---
 
-## 🕚 11:00 AM — Breaking Fast: Golden Green Shot
+## 🕚 11:00 AM — Break Fast: Golden Green Shot + Large Meal
 
-### Ingredients:
-- 1 cup **hot brewed green tea**
-- 500–1000 mg **curcumin extract** OR 1 tsp turmeric powder
+### Shot Ingredients:
+- 1 cup **hot green tea**
+- 500–1000 mg **curcumin extract** OR 1 tsp turmeric
 - 1/8 tsp **black pepper**
 - 1 tsp **extra virgin olive oil**
 - 200–250 mg **resveratrol**
 
-> 💡 *Suppresses HMGB1 transcription, modulates inflammation, boosts absorption via oil and piperine.*
+### Followed By:
+- Balanced meal with:
+  - **Protein**: eggs, fish, legumes, tofu, yogurt
+  - **Fats**: olive oil, nuts, tahini, avocado
+  - **Carbs**: quinoa, lentils, sweet potato, whole grains
 
 ---
 
-## 🕓 4:00–6:00 PM — Olive Cacao Drink
+## 🕟 4:00–5:30 PM — Olive Cacao Drink + Optional Mini-Meal
 
-### Ingredients:
+### Drink:
 - 1–2 tbsp **raw cacao powder**
 - 1 tsp **extra virgin olive oil**
-- 1 cup **hot water** (~160–170°F)
-- *Optional*: pinch of **sea salt** or **cinnamon**
+- 1 cup **hot water**
+- *Optional*: cinnamon or sea salt
 
-> 💡 *Supports vascular health, antioxidant tone, and HMGB1 suppression via epicatechin.*
+### Optional Snack:
+- Smoothie with banana, nut butter, cacao, plant protein
+- Hard-boiled eggs + sourdough + olive oil
+- Yogurt + honey + walnuts
+
+---
+
+## 🕖 7:00 PM — Dinner
+
+- Final large meal:
+  - **Protein**: fish, poultry, legumes, eggs
+  - **Carbs**: rice, squash, beans, oats
+  - **Fats**: olive oil, nuts, ghee, avocado
 
 ---
 
 ## 🟡 Optional Add-On — Berberine
 
-### Dose:
-- **500 mg**, **1–2x/day**, 15–30 min before meals
-
-### Use Cases:
-- Suppresses HMGB1 release, supports insulin sensitivity, enhances gut barrier
-
-> ⚠️ *Cycle: 4–8 weeks on, 1–2 weeks off or 5 days on / 2 days off.*
+| Dose        | 500 mg, 1–2x/day before meals            |
+|-------------|------------------------------------------|
+| Purpose     | Gut support, inflammation reduction, insulin sensitivity |
+| Cycle       | 5 days on / 2 days off OR 4–8 weeks on / 1–2 weeks off |
 
 ---
 
 ## 🧪 Vitamin & Mineral Timing
 
-| Supplement     | Best Time         | With Food? | Notes                                                                 |
-|----------------|-------------------|------------|------------------------------------------------------------------------|
-| **B-Complex**  | 11:30 AM          | ✅ Yes     | Take after breaking fast to support energy, methylation, and autophagy |
-| **Vitamin C**  | 11:30 AM or 4 PM  | ✅ Yes     | Combine with cacao or meal; supports redox and immune signaling        |
-| **Vitamin D**  | 12:30 PM (with lunch) | ✅ With fat | Mimics natural UVB rhythm, supports cytokine balance and HMGB1 suppression |
-| **Zinc**       | 6:30–7:00 PM      | ✅ Yes     | Best with dinner, reduces competition with other minerals               |
-| **Magnesium**  | 7:30–9:00 PM      | ✅ Optional| Promotes sleep, supports autophagy and inflammation recovery            |
+| Supplement     | Best Time         | With Food? | Notes                                                               |
+|----------------|-------------------|------------|----------------------------------------------------------------------|
+| **B-Complex**  | 11:30 AM          | ✅ Yes     | Energy, methylation, autophagy support                              |
+| **Vitamin C**  | 11:30 AM or 4 PM  | ✅ Yes     | Antioxidant cycling, pairs well with cacao                          |
+| **Vitamin D**  | 12:30 PM (w/ lunch) | ✅ With fat | Mimics sun rhythm, supports immune and anti-inflammatory tone       |
+| **Zinc**       | 6:30–7:00 PM      | ✅ Yes     | Evening absorption; helps balance cytokines                         |
+| **Magnesium**  | 7:30–9:00 PM      | ✅ Light food | Calming, supports sleep, recovery, autophagy                      |
+
+---
+
+## 🏋️ Optional: Light Resistance Training (2–3x/week)
+
+- Bodyweight, kettlebells
+- **Pre-lunch** is ideal (before first meal)
+- Helps maintain lean mass, improve nutrient partitioning
 
 ---
 
@@ -117,22 +149,7 @@
 
 | Time        | Activity                                           |
 |-------------|----------------------------------------------------|
-| 7:00 AM     | Black coffee + sunrise outside in light clothing  |
+| 7:00 AM     | Black coffee + sunrise light in minimal clothing  |
 | 9:00 AM     | Green tea                                          |
-| 11:00 AM    | Break fast: Golden Green Shot + meal              |
-| 11:30 AM    | B-complex + Vitamin C                              |
-| 12:30 PM    | Vitamin D (with fat at lunch)                      |
-| 4:30 PM     | Olive Cacao Drink + optional Vitamin C             |
-| 6:30 PM     | Zinc (with dinner)                                 |
-| 7:00 PM     | Last food (dinner)                                 |
-| 7:30–9:00 PM| Magnesium + low light wind-down                    |
-
----
-
-## ⚠️ Final Lifestyle Notes
-
-- 🌿 Stay hydrated throughout the day
-- 🚫 Avoid refined sugar, seed oils, alcohol
-- 🧘 Breathe deeply during cold/sun exposure to support vagal tone
-- 💤 Sleep in total darkness and keep bedtime regular
-
+| 11:00 AM    | Golden Green Shot + large balanced meal           |
+| 11:30 AM    | B-Complex + Vitamin C
