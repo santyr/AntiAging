@@ -5,7 +5,7 @@
 
 ## ⚖️ Weight Maintenance & Muscle Preservation
 
-You are currently lean (6'0", 150 lbs, age 57). This protocol is adapted to **prevent unintended weight loss**, support **anabolic resilience**, and retain all anti-inflammatory and anti-aging benefits.
+This protocol is adapted to **prevent unintended weight loss**, support **anabolic resilience**, and retain all anti-inflammatory and anti-aging benefits.
 
 | Strategy              | Action                                                            |
 |-----------------------|-------------------------------------------------------------------|
