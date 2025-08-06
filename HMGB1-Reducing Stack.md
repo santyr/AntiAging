@@ -152,4 +152,19 @@ This protocol is adapted to **prevent unintended weight loss**, support **anabol
 | 7:00 AM     | Black coffee + sunrise light in minimal clothing  |
 | 9:00 AM     | Green tea                                          |
 | 11:00 AM    | Golden Green Shot + large balanced meal           |
-| 11:30 AM    | B-Complex + Vitamin C
+| 11:30 AM    | B-Complex + Vitamin C                              |
+| 12:30 PM    | Vitamin D (with lunch fat)                         |
+| 4:30 PM     | Olive Cacao Drink + optional mini-meal            |
+| 6:30 PM     | Zinc (with dinner)                                 |
+| 7:00 PM     | Final meal (protein + carbs + fats)               |
+| 7:30–9:00 PM| Magnesium + wind-down                              |
+
+---
+
+## ⚠️ Lifestyle & Stack Notes
+
+- ✅ Hydrate consistently throughout the day
+- ✅ Take all fat-soluble compounds (D, resveratrol, curcumin, cacao) **with fat-containing meals**
+- 🚫 Avoid processed sugar, seed oils, and alcohol
+- ⚖️ Adjust portion sizes to maintain or gently increase body weight
+- 💤 Sleep in full darkness and wind down with minimal artificial light
