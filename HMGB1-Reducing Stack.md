@@ -75,7 +75,6 @@ Prolonged, uninterrupted sitting is an independent inflammatory trigger. Integra
 | **Break Up Sitting** | Alternate between **30–60 minutes of sitting and standing**. | Prevents muscular inactivity and suppresses sedentary inflammation (lower CRP, IL-6). |
 | **Post-Meal Standing** | Make a point to **stand for at least 30 minutes** after your meals. | Significantly improves glycemic control by helping muscles utilize blood sugar, reducing insulin spikes. |
 | **Increase NEAT** | Naturally encourage more movement (shifting weight, stretching). | Boosts Non-Exercise Activity Thermogenesis (NEAT), supporting metabolic health and weight maintenance. |
-| **Promote Flow** | Use an **anti-fatigue mat** for comfort. | Supports better circulation and lymphatic drainage, aiding cellular waste removal. |
 
 ---
 
