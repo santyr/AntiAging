@@ -1,6 +1,6 @@
 # 🌿 The Comprehensive HMGB1-Reducing Stack
 
-*A natural, science-backed protocol using fasting, targeted nutrition, therapeutic compounds, and lifestyle strategies to reduce HMGB1 expression and systemic inflammation. This version is adapted for weight maintenance or gain and includes the latest compound additions.*
+*A natural, science-backed protocol using fasting, targeted nutrition, therapeutic compounds, and lifestyle strategies to reduce HMGB1 expression and systemic inflammation. This version is adapted for weight maintenance or gain and includes an advanced optional module for psycho-spiritual health.*
 
 ---
 
@@ -34,93 +34,72 @@ Fasting is a cornerstone of this protocol as it is the most potent non-pharmacol
 
 ### 🔁 Optional Quarterly Protocol: 36-Hour "Monk Fast"
 **Once every 3 months for a deep cellular reset.**
-- **Example**: Friday 7:00 PM → Sunday 7:00 AM (36 hours)
-- **Consume only**: Water, green tea, black coffee, and electrolytes.
 
 ---
 
-## ☀️ Sunlight Exposure Strategy
+## ☀️ Lifestyle Interventions: Sun, Cold & Movement
 
+### Sunlight Exposure Strategy
 | Time | Action | Benefit |
 |---|---|---|
 | 🌅 **Sunrise** | Go outside in light clothing | Circadian reset, cortisol alignment, brown fat activation. |
 | ☀️ **Midday** | 10–15 min arms/face | Vitamin D production, immune modulation, HMGB1 suppression. |
-| 🌇 **Evening** | 30–60 min outdoors | Pre-melatonin taper, lowers nighttime cortisol. |
 
----
+### Cold Exposure Strategy (Mild Adaptation)
+| Method | Frequency | Notes |
+|---|---|---|
+| Sunrise in light clothes | Daily | Combine with sun exposure and breathwork. |
+| Winter indoor cool temps | Daily | Ambient morning exposure before heating. |
 
-## 🧊 Cold Exposure Strategy (Mild Adaptation)
-
-| Method | Frequency | Duration | Notes |
-|---|---|---|---|
-| Sunrise in light clothes | Daily | 5–10 min | Combine with sun exposure and breathwork. |
-| Winter indoor cool temps | Daily | 10–30 min | Ambient morning exposure before heating. |
-| ❄️ **Intensity** | **Mild only** | — | Avoid extreme cold (e.g., ice baths, cold plunges). |
-
----
-
-## 🚶‍♂️ Reducing Sedentary Time: The Standing Desk Advantage
-
-Prolonged, uninterrupted sitting is an independent inflammatory trigger. Integrating a standing desk provides a foundational layer of anti-inflammatory activity throughout the workday.
-
+### Reducing Sedentary Time: The Standing Desk Advantage
 | Strategy | Action | Benefit |
 |---|---|---|
-| **Break Up Sitting** | Alternate between **30–60 minutes of sitting and standing**. | Prevents muscular inactivity and suppresses sedentary inflammation (lower CRP, IL-6). |
-| **Post-Meal Standing** | Make a point to **stand for at least 30 minutes** after your meals. | Significantly improves glycemic control by helping muscles utilize blood sugar, reducing insulin spikes. |
+| **Break Up Sitting** | Alternate between **30–60 minutes of sitting and standing**. | Suppresses sedentary inflammation. |
+| **Post-Meal Standing**| Stand for **at least 30 minutes** after meals. | Improves glycemic control and insulin sensitivity. |
 
 ---
 
 ## 🍽️ Meals & Therapeutic Drinks (Within 11 AM - 7 PM Window)
 
 ### ☕️ Morning Fast Stack (7:00–11:00 AM)
-
 | Time | Drink | Notes |
 |---|---|---|
 | **7:00 AM** | **Black Coffee** | AMPK activation, focus, appetite control. |
 | **9:00 AM** | **Green Tea** | EGCG primes autophagy and provides anti-HMGB1 tone. |
 
 ### 🕚 11:00 AM — Break Fast: Golden Green Shot + Large Meal
-
 **Shot & Supplement Stack:**
 - 1 cup **hot green tea**
 - 500–1000 mg **curcumin extract** OR 1 tsp turmeric
-- 1/8 tsp **black pepper**
-- 1 tsp **extra virgin olive oil**
+- 1/8 tsp **black pepper** & 1 tsp **extra virgin olive oil**
 - 200–250 mg **resveratrol**
-- **3-5 grams Creatine Monohydrate** (mixed in the shot or taken with water)
-
-**Followed By:** A large, balanced meal to maximize creatine uptake and begin refueling.
+- **3-5 grams Creatine Monohydrate**
+**Followed By:** A large, balanced meal to maximize creatine uptake.
 
 ### 🕟 4:00–5:30 PM — Olive Cacao Drink + Optional Mini-Meal
-
 **Drink:** 1–2 tbsp **raw cacao powder**, 1 tsp **extra virgin olive oil**, 1 cup **hot water**.
-**Optional Snack:** Smoothie, hard-boiled eggs + sourdough, or yogurt + nuts.
 
 ### 🕖 7:00 PM — Final Meal
-
 The final large meal of the day to close the eating window.
 
 ### 🌙 8:00 PM — Evening Gut & Repair Stack: Chamomile + Collagen
-
-**Drink:**
-- 1 cup hot **chamomile tea**
-- 10-20 grams **collagen peptides** (unflavored, dissolved in the tea)
-
-This combination provides **luteolin** and **apigenin** from chamomile to inhibit HMGB1 and preserve NAD+, plus **glycine** and other amino acids from collagen to support overnight gut repair, joint health, and deeper sleep.
+**Drink:** 1 cup hot **chamomile tea** with 10-20 grams **collagen peptides**. This provides **luteolin** and **apigenin** from chamomile to inhibit HMGB1 and preserve NAD+, plus **glycine** from collagen to support overnight gut repair, joint health, and deeper sleep.
 
 ---
 
-## 💊 Science-Backed Supplement Protocol
+## 💊 Supplement Protocol
+
+### Foundational Vitamins, Minerals & Compounds
 
 | Supplement | Best Time | With Food? | Notes & Purpose |
 |---|---|---|---|
-| **Life Extension Super Omega-3** | 11:00 AM & 7:00 PM | ✅ Yes | Provides EPA/DHA to inhibit HMGB1 and produce anti-inflammatory resolvins. Split dose with first and last meals. |
-| **B-Complex** | 11:30 AM | ✅ Yes | Energy, methylation, and autophagy support with your first meal. |
+| **Life Extension Super Omega-3**| 11:00 AM & 7:00 PM | ✅ Yes | Provides EPA/DHA to inhibit HMGB1 and produce anti-inflammatory resolvins. |
+| **B-Complex** | 11:30 AM | ✅ Yes | Energy, methylation, and autophagy support. |
 | **Vitamin C** | 11:30 AM or 4 PM | ✅ Yes | Potent antioxidant cycling. |
-| **Vitamin D** | 12:30 PM (w/ lunch) | ✅ With fat | Mimics sun rhythm; vital for immune and anti-inflammatory tone. |
-| **Zinc** | 6:30–7:00 PM | ✅ Yes | With your final meal for optimal absorption; helps balance cytokines. |
-| **Magnesium** | 8:30–9:00 PM | ✅ Light food | Calming, supports sleep, recovery, and autophagy. Take as you wind down. |
-| **NAC + Glycine** | 8:30–9:00 PM | ❌ Empty stomach | Take ~90 min after your last meal. Boosts master antioxidant glutathione. Glycine aids sleep quality. |
+| **Vitamin D** | 12:30 PM (w/ lunch)| ✅ With fat | Mimics sun rhythm; vital for immune and anti-inflammatory tone. |
+| **Zinc** | 6:30–7:00 PM | ✅ Yes | With your final meal for optimal absorption. |
+| **Magnesium** | 8:30–9:00 PM | ✅ Light food | Calming, supports sleep, recovery, and autophagy. |
+| **NAC + Glycine**| 8:30–9:00 PM | ❌ Empty stomach| Boosts master antioxidant glutathione. |
 
 ### 🟡 Optional Add-On — Berberine
 
@@ -131,13 +110,34 @@ This combination provides **luteolin** and **apigenin** from chamomile to inhibi
 
 ---
 
+## 🍄 Optional Neuro-Regulatory & Psycho-Spiritual Module
+
+**Disclaimer:** *This is an advanced module. These substances carry significant psychological risks and are illegal in many places. They should be avoided by individuals with a personal or family history of psychosis. Prioritize harm reduction, including set, setting, and integration, at all times.*
+
+This module enhances the protocol by reducing stress, promoting neuroplasticity, and improving mind-body connection, which are critical for long-term adherence and reducing the psycho-emotional drivers of inflammation.
+
+### Psilocybin Protocol
+
+| Strategy | Dose | Schedule | Purpose & Rationale |
+|---|---|---|---|
+| **Microdosing** | **0.1g - 0.25g** dried *Psilocybe cubensis* or equivalent. | **1 day on, 2 days off** (e.g., Monday/Thursday). | Consistent background support for mood, stress resilience, and neuroplasticity. Helps break ingrained habits and improves adherence to the protocol's lifestyle changes. |
+| **Rare Macrodose**| Therapeutic dose used infrequently. | **Quarterly to annually**, as needed. | For a profound reset of perspective, processing deep-seated stress patterns, or overcoming significant behavioral hurdles. Requires extensive preparation and integration. |
+
+### DMT Protocol
+
+| Strategy | Method | Dose/Intensity | Frequency | Purpose & Rationale |
+|---|---|---|---|---|
+| **Sub-Breakthrough Meditative Sessions** | Vaporization | Sufficient to achieve a **"waiting room" or sub-breakthrough state (Level 1-3 experiences)**. | **Once every 1-2 weeks**, as felt appropriate and with intention. | A potent tool for disengaging from the default mode network, inducing a deep meditative state, processing emotional stress, and gaining novel perspectives. Acts as a rapid-acting 'reset button' for the nervous system. |
+
+---
+
 ## 🗓 Sample Daily Schedule
 
 | Time | Activity |
 |---|---|
-| **7:00 AM** | **(Fast) Black coffee** + sunrise light in minimal clothing. |
+| **7:00 AM** | **(Fast) Black coffee** + sunrise light. *(On microdosing days, take psilocybin here on an empty stomach)*. |
 | **9:00 AM** | **(Fast) Green tea**. |
-| **All Day** | **Alternate between sitting and standing while working.** |
+| **All Day**| **Alternate between sitting and standing while working.** |
 | **11:00 AM** | **(Break Fast)** Golden Green Shot (with Creatine) + Large Meal 1. |
 | **11:30 AM** | B-Complex + Vitamin C + Super Omega-3 (Dose 1). |
 | **12:30 PM** | Vitamin D (with lunch fat). |
@@ -151,8 +151,9 @@ This combination provides **luteolin** and **apigenin** from chamomile to inhibi
 
 ## ⚠️ Lifestyle & Stack Notes
 - ✅ **Hydrate consistently** throughout the day.
-- ✅ Take all fat-soluble compounds (D, resveratrol, curcumin, cacao, omega-3s) **with fat-containing meals**.
+- ✅ Take all fat-soluble compounds **with fat-containing meals**.
 - 🚫 Avoid processed sugar, industrial seed oils, and alcohol.
-- ⚖️ Adjust portion sizes within the eating window to maintain or gently increase body weight.
+- ⚖️ Adjust portion sizes to maintain or gently increase body weight.
 - 💤 Prioritize 7-9 hours of sleep in a cool, dark, and quiet environment.
+- 🍄 **The optional psycho-spiritual module carries significant risks and is not for everyone. Adhere to all harm reduction principles and be aware of your local laws.**
 - *Disclaimer: This protocol is for informational purposes only. Consult with a qualified healthcare professional before beginning any new diet or supplement regimen.*
