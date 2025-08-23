@@ -31,18 +31,11 @@ Fasting is a cornerstone of this protocol as it is the most potent non-pharmacol
 ### ✅ Daily Protocol: 16:8 Intermittent Fasting
 - **Fasting Window**: 7:00 PM – 11:00 AM (16 hours)
 - **Eating Window**: 11:00 AM – 7:00 PM (8 hours)
-- **Permitted during fast**:
-  - ✅ Black coffee
-  - ✅ Green tea
-  - ✅ Water
-  - ✅ Unsweetened electrolytes
-  - ✅ Chamomile tea
 
 ### 🔁 Optional Quarterly Protocol: 36-Hour "Monk Fast"
 **Once every 3 months for a deep cellular reset.**
 - **Example**: Friday 7:00 PM → Sunday 7:00 AM (36 hours)
 - **Consume only**: Water, green tea, black coffee, and electrolytes.
-- Avoid stressors and break the fast gently with a small, balanced meal.
 
 ---
 
@@ -74,7 +67,6 @@ Prolonged, uninterrupted sitting is an independent inflammatory trigger. Integra
 |---|---|---|
 | **Break Up Sitting** | Alternate between **30–60 minutes of sitting and standing**. | Prevents muscular inactivity and suppresses sedentary inflammation (lower CRP, IL-6). |
 | **Post-Meal Standing** | Make a point to **stand for at least 30 minutes** after your meals. | Significantly improves glycemic control by helping muscles utilize blood sugar, reducing insulin spikes. |
-| **Increase NEAT** | Naturally encourage more movement (shifting weight, stretching). | Boosts Non-Exercise Activity Thermogenesis (NEAT), supporting metabolic health and weight maintenance. |
 
 ---
 
@@ -89,14 +81,15 @@ Prolonged, uninterrupted sitting is an independent inflammatory trigger. Integra
 
 ### 🕚 11:00 AM — Break Fast: Golden Green Shot + Large Meal
 
-**Shot Ingredients:**
+**Shot & Supplement Stack:**
 - 1 cup **hot green tea**
 - 500–1000 mg **curcumin extract** OR 1 tsp turmeric
 - 1/8 tsp **black pepper**
 - 1 tsp **extra virgin olive oil**
 - 200–250 mg **resveratrol**
+- **3-5 grams Creatine Monohydrate** (mixed in the shot or taken with water)
 
-**Followed By:** A large, balanced meal with protein, healthy fats, and complex carbs.
+**Followed By:** A large, balanced meal to maximize creatine uptake and begin refueling.
 
 ### 🕟 4:00–5:30 PM — Olive Cacao Drink + Optional Mini-Meal
 
@@ -107,11 +100,13 @@ Prolonged, uninterrupted sitting is an independent inflammatory trigger. Integra
 
 The final large meal of the day to close the eating window.
 
-### 🌙 8:00 PM — Evening Wind-Down: Chamomile Tea
+### 🌙 8:00 PM — Evening Gut & Repair Stack: Chamomile + Collagen
 
-A cup of hot chamomile tea during the fasting window provides two key benefits:
-1.  **Luteolin for HMGB1 Inhibition**: Chamomile is a natural source of **luteolin**, a flavonoid shown to directly inhibit HMGB1 secretion.
-2.  **Apigenin for Sleep & NAD+ Preservation**: Chamomile is rich in **apigenin**, which promotes sleep by inducing calmness. Crucially, scientific evidence indicates that **apigenin is a potent inhibitor of the enzyme CD38**. As CD38 is a primary consumer of NAD+ in the body, inhibiting it helps preserve or even increase NAD+ levels, which are vital for cellular energy, DNA repair, and longevity.
+**Drink:**
+- 1 cup hot **chamomile tea**
+- 10-20 grams **collagen peptides** (unflavored, dissolved in the tea)
+
+This combination provides **luteolin** and **apigenin** from chamomile to inhibit HMGB1 and preserve NAD+, plus **glycine** and other amino acids from collagen to support overnight gut repair, joint health, and deeper sleep.
 
 ---
 
@@ -143,21 +138,21 @@ A cup of hot chamomile tea during the fasting window provides two key benefits:
 | **7:00 AM** | **(Fast) Black coffee** + sunrise light in minimal clothing. |
 | **9:00 AM** | **(Fast) Green tea**. |
 | **All Day** | **Alternate between sitting and standing while working.** |
-| **11:00 AM** | **(Break Fast)** Golden Green Shot + Large Meal 1. |
+| **11:00 AM** | **(Break Fast)** Golden Green Shot (with Creatine) + Large Meal 1. |
 | **11:30 AM** | B-Complex + Vitamin C + Super Omega-3 (Dose 1). |
 | **12:30 PM** | Vitamin D (with lunch fat). |
 | **4:30 PM** | Olive Cacao Drink + optional mini-meal/snack. |
 | **6:30 PM** | Zinc (just before dinner). |
 | **7:00 PM** | **(Start Fast)** Final Meal + Super Omega-3 (Dose 2). |
-| **8:00 PM** | **(Fast) Chamomile Tea** + Wind-down routine. |
+| **8:00 PM** | **(Fast) Chamomile Tea with Collagen Peptides** + Wind-down. |
 | **8:30–9:00 PM**| **(Fast) Magnesium + NAC/Glycine** (on empty stomach). |
 
 ---
 
 ## ⚠️ Lifestyle & Stack Notes
-- ✅ **Hydrate consistently** throughout the day, especially during the fasting window.
+- ✅ **Hydrate consistently** throughout the day.
 - ✅ Take all fat-soluble compounds (D, resveratrol, curcumin, cacao, omega-3s) **with fat-containing meals**.
-- 🚫 Avoid processed sugar, industrial seed oils (canola, soy, etc.), and alcohol.
+- 🚫 Avoid processed sugar, industrial seed oils, and alcohol.
 - ⚖️ Adjust portion sizes within the eating window to maintain or gently increase body weight.
 - 💤 Prioritize 7-9 hours of sleep in a cool, dark, and quiet environment.
 - *Disclaimer: This protocol is for informational purposes only. Consult with a qualified healthcare professional before beginning any new diet or supplement regimen.*
