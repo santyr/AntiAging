@@ -1,6 +1,6 @@
 # 🌿 The Comprehensive HMGB1-Reducing Stack
 
-*A natural, science-backed protocol using fasting, targeted nutrition, therapeutic compounds, and lifestyle strategies to reduce HMGB1 expression and systemic inflammation. This version is adapted for weight maintenance or gain and includes an advanced optional module for psycho-spiritual health.*
+*A natural, science-backed protocol using fasting, targeted nutrition, therapeutic compounds, and mind-body practices to reduce HMGB1 expression and systemic inflammation. This version is adapted for weight maintenance or gain and includes an advanced optional module for psycho-spiritual health.*
 
 ---
 
@@ -18,7 +18,7 @@ This protocol is specifically adapted to **prevent unintended weight loss**, sup
 | 🥬 **Protein Sources** | Focus on **eggs, poultry, fish, fermented dairy, legumes, and tofu**. |
 | 🥑 **Healthy Fats** | Include liberal amounts of **olive oil, tahini, nuts, seeds, and avocado**. |
 | 🍠 **Complex Carbs** | Add **root vegetables, lentils, quinoa, and whole grains** to meals. |
-| 🏋️ **Light Resistance** | Optional: 2–3x/week light training (bodyweight, kettlebells) to maintain lean mass. |
+| 🏋️ **Light Resistance** | Optional: 2–3x/week light training to maintain lean mass. |
 | 🧊 **Cold Exposure** | Keep exposure **brief and mild** to avoid excessive caloric expenditure. |
 | 🛑 **Monk Fasting** | Perform the optional extended fast **quarterly only** to limit catabolism. |
 
@@ -37,7 +37,13 @@ Fasting is a cornerstone of this protocol as it is the most potent non-pharmacol
 
 ---
 
-## ☀️ Lifestyle Interventions: Sun, Cold & Movement
+## 🧠 Mind-Body & Lifestyle Interventions
+
+### Morning Meditation Practice
+A daily meditation practice is a foundational component for managing the psycho-emotional drivers of inflammation.
+| Strategy | Duration | Timing | Benefit & Rationale |
+|---|---|---|---|
+| **Mindfulness or Breathwork Meditation** | **20 minutes** | **Daily, upon waking, before coffee or sun exposure.** | Directly lowers cortisol, the primary stress hormone that drives inflammation. It shifts the nervous system from a sympathetic (fight-or-flight) to a parasympathetic (rest-and-digest) state, setting a calm, resilient tone for the entire day. This practice also builds the mental framework necessary for integrating insights from the optional psycho-spiritual module. |
 
 ### Sunlight Exposure Strategy
 | Time | Action | Benefit |
@@ -135,6 +141,7 @@ This module enhances the protocol by reducing stress, promoting neuroplasticity,
 
 | Time | Activity |
 |---|---|
+| **6:40 AM** | **(Fast) 20-Minute Meditation.** |
 | **7:00 AM** | **(Fast) Black coffee** + sunrise light. *(On microdosing days, take psilocybin here on an empty stomach)*. |
 | **9:00 AM** | **(Fast) Green tea**. |
 | **All Day**| **Alternate between sitting and standing while working.** |
