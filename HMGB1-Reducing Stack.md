@@ -1,4 +1,4 @@
-# ⚙️ HMGB1-Reducing Stack — Updated Clinical-Integrative Version (Oct 2025 Labs)
+# ⚙️ HMGB1-Reducing Stack — Updated Clinical-Integrative Version
 
 *A thyroid- and metabolism-safe anti-inflammatory plan focused on lowering HMGB1, supporting methylation, optimizing lipid particle quality, restoring zinc and omega-3 levels, and maintaining anabolic stability.*
 
@@ -8,11 +8,11 @@
 
 | Strategy | Action |
 |-----------|---------|
-| 🍽 **Meal Frequency** | 3 main meals + 1 optional snack. Overnight fast only (12–13 h). |
+| 🍽 **Meal Frequency** | 3 main meals + 1 optional snack. Overnight fast only (11 h – 12 h). |
 | 🥚 **Protein Sources** | Eggs, fish, chicken, Karoun yogurt, lentils, tofu. Target **1.4–1.6 g/kg body wt/day.** |
 | 🥑 **Healthy Fats** | Olive oil, avocado, nuts, seeds, tahini, sardines. |
 | 🍠 **Complex Carbs** | Potatoes, quinoa, lentils, root vegetables. |
-| 🏋️ **Resistance Training** | 3 × per week, 30–45 min. Body-weight or band work is sufficient if progressive. |
+| 🏋️ **Resistance Training** | 3 × per week, 30–45 min. Body-weight or bands sufficient if progressive. |
 | 🚶 **Daily Movement** | ≥ 7000 steps/day; stand ≥ 30 min after meals. |
 
 ---
@@ -22,8 +22,8 @@
 | Practice | Duration | Timing | Purpose |
 |-----------|-----------|---------|----------|
 | **Meditation / Breathwork** | 20 min | 6 : 40 AM | Lowers cortisol & HMGB1; improves HRV. |
-| **Sunlight Exposure** | 5–10 min | Sunrise | Sets circadian rhythm. |
-| **Midday Sunlight** | 10–15 min | Noon | Maintains vitamin D & thyroid rhythm. |
+| **Sunlight Exposure** | 5–10 min | 6 : 45 AM – 7 AM | Sets circadian rhythm. |
+| **Midday Sunlight** | 10–15 min | 12 PM | Maintains vitamin D & thyroid rhythm. |
 | **Cool Ambient Exposure** | Brief | Morning | Mild hormetic anti-inflammatory effect. |
 
 ---
@@ -54,7 +54,7 @@ Fish or poultry + potatoes / quinoa + vegetables + olive oil.
 **Supplements (with meal):**  
 - **Berberine 500 mg** (before eating)  
 - *(Optional)* **Alpha-lipoic acid (ALA 300 mg)** — add only if LDL-P > 1100 at re-test.  
-- **Vitamin C 500 mg** (optional antioxidant support)
+- **Vitamin C 500 mg** (optional)
 
 ---
 
@@ -62,14 +62,14 @@ Fish or poultry + potatoes / quinoa + vegetables + olive oil.
 
 | Drink | Notes |
 |-------|-------|
-| Olive-cacao drink (1–2 tbsp raw cacao + 1 tsp olive oil + hot water) | Polyphenol antioxidant; supports HDL large particle growth. |
+| Olive-cacao drink (1–2 tbsp raw cacao + 1 tsp olive oil + hot water) | Polyphenol antioxidant; supports HDL-large particle growth. |
 | Optional snack | Karoun yogurt or nuts or fruit for steady energy. |
 
 **Supplement:** **Myo-inositol 2 g** (second dose)
 
 ---
 
-## 🌙 Evening Meal (6 : 30 – 7 PM)
+## 🌙 Evening Meal (7 PM)
 
 Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 
@@ -80,12 +80,14 @@ Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 
 ---
 
-## 🌿 Night Recovery Stack (8 : 30 – 9 PM)
+## 🌿 Night Recovery Stack (8 PM)
 
 | Supplement | Dose | Purpose |
 |-------------|------|----------|
-| **Magnesium glycinate** | 200–400 mg | Relaxes nervous system; improves HRV. |
-| **NAC + Glycine** | 600 mg + 2 g (empty stomach) | Boosts glutathione; supports detox & red-cell integrity. |
+| **Magnesium glycinate** | 200–400 mg | Calms nervous system; improves HRV and sleep depth. |
+| **NAC + Glycine** | 600 mg + 2 g (empty stomach, 8 PM)** | Boosts glutathione; supports detox and red-cell integrity. |
+
+Lights low after 8 : 30 PM; asleep by 9 PM.
 
 ---
 
@@ -102,8 +104,8 @@ Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 | Berberine | 500 mg × 2 | Before lunch & dinner |
 | Alpha-lipoic acid (optional) | 300 mg × 2 | With lunch & dinner (if used) |
 | Vitamin D₃ | 3000–4000 IU | Breakfast / Midday |
-| Magnesium glycinate | 200–400 mg | Night |
-| NAC + Glycine | 600 mg + 2 g | Night (empty stomach) |
+| Magnesium glycinate | 200–400 mg | 8 PM |
+| NAC + Glycine | 600 mg + 2 g | 8 PM (empty stomach) |
 
 ---
 
@@ -117,15 +119,15 @@ Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 | **8 : 15 AM** | Breakfast + supplements |
 | **12 : 30 PM** | Lunch + supplements |
 | **4 : 30 PM** | Olive-cacao drink + myo-inositol |
-| **6 : 30 PM** | Dinner + supplements |
-| **8 : 30 PM** | Magnesium + NAC + glycine |
-| **9 : 30 PM** | Wind-down, low light |
-| **10 PM – 6 AM** | Sleep |
-| **7 PM – 8 AM** | Overnight fast (~13 h) |
+| **7 : 00 PM** | Dinner + supplements |
+| **8 : 00 PM** | Magnesium + NAC + glycine |
+| **8 : 30 PM** | Lights dim, wind down |
+| **9 : 00 PM – 6 : 30 AM** | Sleep |
+| **7 PM – 7 AM** | Overnight fast (~12 h) |
 
 ---
 
-## 🩺 Retesting Roadmap (3–6 Months)
+## 🩺 Retesting Roadmap (3 – 6 Months)
 
 | Marker | Goal |
 |---------|------|
@@ -141,9 +143,9 @@ Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 
 ## 🧭 Summary
 
-- **Zinc and Omega-3 added as core corrections** for low values.  
-- **Fasting remains removed** to protect thyroid & hormone balance.  
-- **Collagen retained in morning coffee** for protein and glycine.  
-- **ALA optional** pending follow-up LDL-P.  
-- Core anti-HMGB1 elements retained: turmeric-green-tea, omega-3, selenium + myo-inositol, CoQ10, and NAC + glycine.  
-- Focus: **thyroid autoimmunity control, zinc repletion, omega-3 optimization, lipid particle repair, and sustained low inflammation** while maintaining anabolic strength and metabolic stability.
+- Adjusted to **9 PM bedtime / 6 : 30 AM wake** and **7 PM dinner**.  
+- **Overnight fast shortened to ≈ 12 h** for stable thyroid & anabolic balance.  
+- **Zinc and omega-3** emphasized for correction of deficiencies.  
+- **ALA optional** pending lipid follow-up.  
+- Core anti-HMGB1 elements preserved: turmeric-green-tea, omega-3, selenium + myo-inositol, CoQ10, NAC + glycine.  
+- Focus: **thyroid autoimmunity control, zinc + omega-3 repletion, lipid particle repair, and sustained low inflammation** with your natural sleep rhythm.
