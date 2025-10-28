@@ -32,13 +32,13 @@
 
 | Time | Item | Notes |
 |------|------|-------|
-| **7 : 00 AM** | **Coffee + collagen (10–20 g)** | Collagen provides glycine and early protein. |
+| **7 : 00 AM** | **Coffee + collagen (10–20 g) + creatine monohydrate (3–5 g)** | Creatine may be mixed in warm coffee; hydrate well. |
 | **8 : 00 AM** | **Green tea with turmeric, pepper, olive oil** | 1 tsp turmeric + ⅛ tsp black pepper + 1 tsp olive oil in 1 cup hot green tea. |
 | **8 : 15 AM Breakfast** | Eggs or yogurt + fruit + nuts | Balanced meal with fats and protein. |
 
 **Supplements (with breakfast):**  
 - **Quercetin 600 mg**  
-- **Vitamin C 500 mg**  
+- **Vitamin C 250 mg**  
 - Methylated **B-Complex** (1 cap)  
 - **Selenium 200 µg**  
 - **Zinc 25 mg** (picolinate or gluconate)  
@@ -77,7 +77,7 @@ Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 
 **Supplements (with dinner):**  
 - **Quercetin 600 mg**  
-- **Vitamin C 500 mg**  
+- **Vitamin C 250 mg**  
 - **Omega-3 (1 g EPA + DHA)**  
 - **CoQ10 (ubiquinol 100 mg)**  
 - **Berberine 500 mg** (before meal)
@@ -89,7 +89,7 @@ Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 | Supplement | Dose | Purpose |
 |-------------|------|----------|
 | **Magnesium glycinate** | 200–400 mg | Calms nervous system; supports sleep. |
-| **NAC** | 600 mg (empty stomach) | Boosts glutathione; supports detox and red-cell integrity. |
+| **NAC** | 600 mg (empty stomach) | Boosts glutathione; supports detox & red-cell integrity. |
 
 Lights dim by 8 : 30 PM. Sleep at 9 PM; wake 6 : 30 AM.
 
@@ -99,6 +99,7 @@ Lights dim by 8 : 30 PM. Sleep at 9 PM; wake 6 : 30 AM.
 
 | Supplement | Dose | Timing |
 |-------------|------|--------|
+| **Creatine monohydrate** | 3–5 g | Morning (with coffee + collagen) |
 | Quercetin | 600 mg × 2 | Breakfast & Dinner |
 | Vitamin C | 250 mg × 2 | Breakfast & Dinner |
 | Methylated B-Complex | 1 cap | Breakfast |
@@ -120,7 +121,7 @@ Lights dim by 8 : 30 PM. Sleep at 9 PM; wake 6 : 30 AM.
 | Time | Activity |
 |------|-----------|
 | **6 : 40 AM** | Meditation / breathwork |
-| **7 : 00 AM** | Coffee + collagen |
+| **7 : 00 AM** | Coffee + collagen + creatine |
 | **8 : 00 AM** | Green tea + turmeric mix |
 | **8 : 15 AM** | Breakfast + supplements |
 | **12 : 30 PM** | Lunch + supplements |
@@ -144,15 +145,3 @@ Lights dim by 8 : 30 PM. Sleep at 9 PM; wake 6 : 30 AM.
 | **SHBG + Free T** | Increase bioavailable testosterone |
 | **Zinc / Omega-3 Index** | Zinc > 80 µg/dL; Omega-3 ≥ 8 % |
 | **Vitamin D / B12 / Folate** | Upper-mid optimal range |
-
----
-
-## 🧭 Summary
-
-- **Glycine removed**; **NAC retained** as the main glutathione precursor.  
-- **Quercetin 1200 mg (split dose)** included for inflammation, lipid, and thyroid immune support.  
-- **Zinc and omega-3** remain key for correction of deficiencies.  
-- **Fasting removed** to protect thyroid and hormonal balance.  
-- **ALA optional**, to be added only if lipid particle counts remain high.  
-- Core anti-HMGB1 and antioxidant stack maintained: turmeric-green-tea, omega-3, selenium + myo-inositol, CoQ10, NAC, quercetin.  
-- Focus: **thyroid autoimmunity control, nutrient repletion, lipid particle repair, and sustained low inflammation** within a stable 9 PM – 6 : 30 AM rhythm.
