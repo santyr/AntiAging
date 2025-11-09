@@ -22,7 +22,7 @@
 | Practice | Duration | Timing | Purpose |
 |-----------|-----------|---------|----------|
 | **Meditation / Breathwork** | 20 min | 6 : 40 AM | Lowers cortisol & HMGB1; improves HRV. |
-| **Sunlight Exposure** | 5–10 min | 6 : 45 AM – 7 : 00 AM | Sets circadian rhythm. |
+| **Sunlight Exposure** | 5–10 min | 6 : 45–7 : 00 AM | Sets circadian rhythm. |
 | **Midday Sunlight** | 10–15 min | 12 PM | Maintains vitamin D & thyroid rhythm. |
 | **Cool Ambient Exposure** | Brief | Morning | Mild hormetic anti-inflammatory effect. |
 
@@ -32,13 +32,14 @@
 
 | Time | Item | Notes |
 |------|------|-------|
-| **7 : 00 AM** | **Coffee + collagen (10–20 g) + creatine monohydrate (3–5 g)** | Creatine may be mixed in warm coffee; hydrate well. |
-| **8 : 00 AM** | **Green tea with turmeric, pepper, olive oil** | 1 tsp turmeric + ⅛ tsp black pepper + 1 tsp olive oil in 1 cup hot green tea. |
+| **7 : 00 AM** | **Coffee (2 cups ≈ 16 oz) + collagen (10–20 g) + creatine (3–5 g)** | Ideal caffeine range (~180–200 mg). Creatine may be mixed in warm coffee; hydrate well. |
+| **7 : 30 AM – 12 PM** | **Green tea (4 cups / 32 oz, sipped gradually)** | Steady EGCG & L-theanine for antioxidant, autonomic, and lipid benefits. |
 | **8 : 15 AM Breakfast** | Eggs or yogurt + fruit + nuts | Balanced meal with fats and protein. |
 
 **Supplements (with breakfast):**  
+- **Curcumin C3 Complex 500 mg (+ BioPerine)**  
 - **Quercetin 600 mg**  
-- **Vitamin C 250 mg**  
+- **Vitamin C 250–500 mg**  
 - Methylated **B-Complex** (1 cap)  
 - **Selenium 200 µg**  
 - **Zinc 25 mg** (picolinate or gluconate)  
@@ -76,8 +77,9 @@ Fish or poultry + potatoes / quinoa + vegetables + olive oil.
 Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 
 **Supplements (with dinner):**  
+- **Curcumin C3 Complex 500 mg (+ BioPerine)**  
 - **Quercetin 600 mg**  
-- **Vitamin C 250 mg**  
+- **Vitamin C 250–500 mg**  
 - **Omega-3 (1 g EPA + DHA)**  
 - **CoQ10 (ubiquinol 100 mg)**  
 - **Berberine 500 mg** (before meal)
@@ -100,19 +102,20 @@ Lights dim by 8 : 30 PM. Sleep at 9 PM; wake 6 : 30 AM.
 | Supplement | Dose | Timing |
 |-------------|------|--------|
 | **Creatine monohydrate** | 3–5 g | Morning (with coffee + collagen) |
-| Quercetin | 600 mg × 2 | Breakfast & Dinner |
-| Vitamin C | 250 mg × 2 | Breakfast & Dinner |
-| Methylated B-Complex | 1 cap | Breakfast |
-| Selenium | 200 µg | Breakfast |
-| Zinc | 25 mg | Breakfast |
-| Myo-inositol | 2 g × 2 | Breakfast & 4 PM |
-| Omega-3 | 1 g × 2 | Breakfast & Dinner |
-| CoQ10 (Ubiquinol) | 100–200 mg | Breakfast & Dinner |
-| Berberine | 500 mg × 2 | Before lunch & dinner |
-| Alpha-lipoic acid (optional) | 300 mg × 2 | With lunch & dinner (if used) |
-| Vitamin D₃ | 3000–4000 IU | Breakfast / Midday |
-| Magnesium glycinate | 200–400 mg | 8 PM |
-| NAC | 600 mg | 8 PM (empty stomach) |
+| **Curcumin C3 Complex** | 500 mg × 2 | Breakfast & Dinner |
+| **Quercetin** | 600 mg × 2 | Breakfast & Dinner |
+| **Vitamin C** | 250–500 mg × 2 | Breakfast & Dinner |
+| **Methylated B-Complex** | 1 cap | Breakfast |
+| **Selenium** | 200 µg | Breakfast |
+| **Zinc** | 25 mg | Breakfast |
+| **Myo-inositol** | 2 g × 2 | Breakfast & 4 PM |
+| **Omega-3** | 1 g × 2 | Breakfast & Dinner |
+| **CoQ10 (Ubiquinol)** | 100–200 mg | Breakfast & Dinner |
+| **Berberine** | 500 mg × 2 | Before lunch & dinner |
+| **Alpha-lipoic acid (optional)** | 300 mg × 2 | With lunch & dinner (if used) |
+| **Vitamin D₃** | 3000–4000 IU | Breakfast / Midday |
+| **Magnesium glycinate** | 200–400 mg | 8 PM |
+| **NAC** | 600 mg | 8 PM (empty stomach) |
 
 ---
 
@@ -121,8 +124,8 @@ Lights dim by 8 : 30 PM. Sleep at 9 PM; wake 6 : 30 AM.
 | Time | Activity |
 |------|-----------|
 | **6 : 40 AM** | Meditation / breathwork |
-| **7 : 00 AM** | Coffee + collagen + creatine |
-| **8 : 00 AM** | Green tea + turmeric mix |
+| **7 : 00 AM** | Coffee (2 cups) + collagen + creatine |
+| **7 : 30 AM – 12 PM** | Green tea (4 cups total, sipped gradually) |
 | **8 : 15 AM** | Breakfast + supplements |
 | **12 : 30 PM** | Lunch + supplements |
 | **4 : 30 PM** | Olive-cacao drink + myo-inositol |
