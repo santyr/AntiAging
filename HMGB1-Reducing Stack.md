@@ -1,4 +1,4 @@
-# ⚙️ HMGB1-Reducing Protocol — Optimized for Labs of 10/30/2025
+# ⚙️ HMGB1-Reducing Protocol
 *A thyroid- and metabolism-safe anti-inflammatory plan focused on lowering HMGB1, supporting methylation, optimizing lipid particle quality, restoring zinc and omega-3 levels, and maintaining anabolic stability.*
 ---
 
