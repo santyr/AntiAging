@@ -1,5 +1,6 @@
-# ⚙️ HMGB1-Reducing Protocol
+# ⚙️ HMGB1-Reducing Protocol 
 *A thyroid- and metabolism-safe anti-inflammatory plan focused on lowering HMGB1, supporting methylation, optimizing lipid particle quality, restoring zinc and omega-3 levels, and maintaining anabolic stability.*
+
 ---
 
 ## ⚖️ Foundational Strategy: Diet & Movement
@@ -11,6 +12,7 @@
 | 🥑 **Healthy Fats** | Olive oil, avocado, nuts, seeds, tahini, sardines. |
 | 🍠 **Complex Carbs** | Potatoes, quinoa, lentils, root vegetables. |
 | 🏋️ **Resistance Training** | 3 × per week, 30–45 min, body-weight or bands with progression. |
+| 🏃 **Zone 2 Cardio** | 2-3 x per week, 30-45 min (brisk walk, cycling, etc.). |
 | 🚶 **Daily Movement** | ≥ 7000 steps/day; stand ≥ 30 min after meals. |
 
 ---
@@ -90,7 +92,7 @@ Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 | Supplement | Dose | Timing | Purpose |
 |-------------|------|---------|----------|
 | **Magnesium glycinate** | 200–400 mg | 8:00 PM | Calms nervous system; improves HRV and sleep onset. |
-| **NAC** | 600 mg | 9:00 PM (right before bed, >2h after last meal) | Boosts glutathione during sleep; supports detox and red-cell integrity. |
+| **GlyNAC** | 600-1000 mg **NAC** + 600-1000 mg **Glycine** | 9:00 PM (right before bed, >2h after last meal) | Maximizes glutathione synthesis during sleep; supports detox, mitochondrial function, and antioxidant defense. |
 
 Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
 
@@ -114,9 +116,9 @@ Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
 | **Vitamin D₃** | 4000 IU | Breakfast |
 | **Vitamin K₂ (MK-7)** | 180 mcg | Breakfast |
 | **Berberine** | 500 mg × 2 | Before lunch & dinner |
-| **Alpha-lipoic acid (optional)** | 300 mg × 2 | With lunch & dinner |
+| **Alpha-lipoic acid (optional)**| 300 mg × 2 | With lunch & dinner |
 | **Magnesium glycinate** | 200–400 mg | 8 PM |
-| **NAC** | 600 mg | 9 PM (empty stomach) |
+| **GlyNAC (NAC + Glycine)** | 600-1000 mg of each | 9 PM (empty stomach) |
 
 ---
 
@@ -135,7 +137,7 @@ Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
 | **6:30 – 7:00 PM** | Dinner + PM supplements |
 | **8:00 PM** | Magnesium |
 | **8:30 PM** | Lights dim, wind down |
-| **9:00 PM** | NAC, then sleep |
+| **9:00 PM** | GlyNAC, then sleep |
 | **7:00 PM – 7:00 AM** | Overnight fast (~12 h) |
 
 ---
