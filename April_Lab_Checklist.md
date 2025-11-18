@@ -1,5 +1,5 @@
 # 📋 April Lab Retest Checklist: Indicators of Success
-**Patient:** Shane Antyr  
+
 **Context:** 6-month follow-up on "HMGB1-Reducing Protocol" and testing the "Post-COVID Thyroiditis" hypothesis.
 
 ---
