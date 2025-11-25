@@ -1,7 +1,6 @@
 # ⚙️ HMGB1-Reducing Protocol — Optimized Clinical Version (v4.1)
 *A thyroid- and metabolism-safe anti-inflammatory plan focused on lowering HMGB1, supporting methylation, optimizing lipid particle quality, and raising Heart Rate Variability (HRV).*
 
-**Patient:** Shane Antyr  
 **Context:** Post-COVID Thyroiditis / Post-Snus Recovery / Missing Appendix  
 **Date:** November 2025
 
