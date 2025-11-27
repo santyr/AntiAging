@@ -1,15 +1,19 @@
-# ⚙️ HMGB1-Reducing Protocol — Optimized Clinical Version (v4.2)
+Here is the updated protocol document (v4.3). I have added the **Evening L-Theanine** to the Night Recovery Stack and the Daily Summary.
+
+# ⚙️ HMGB1-Reducing Protocol — Optimized Clinical Version (v4.3)
 *A thyroid- and metabolism-safe anti-inflammatory plan focused on lowering HMGB1, supporting methylation, optimizing lipid particle quality, and raising Heart Rate Variability (HRV).*
 
+**Context:** Post-COVID Thyroiditis / Post-Snus Recovery / Missing Appendix  
 **Date:** November 2025
 
 ---
-### ★ Key Optimizations (v4.2)
-*   **The "Smart Coffee" Upgrade:** Added **L-Theanine (200 mg)** to the morning coffee. This neutralizes the vasoconstriction and cortisol spike from caffeine, protecting your SHBG levels while promoting alpha-wave focus.
-*   **Zinc Dosage Update:** Adjusted to **50 mg** to aggressively out-compete the 45-year cadmium load and correct the critical deficiency (59 µg/dL).
-*   **HRV Rescue (Midday Reset):** Two-A-Day Meditation strategy (AM & Midday) to stop stress accumulation and raise HRV.
+
+### ★ Key Optimizations (v4.3)
+*   **The "Double Theanine" Strategy:** Added **L-Theanine (200–400 mg) in the evening** to work synergistically with Magnesium. This targets the glutamate/neuro-excitability keeping your HRV suppressed.
+*   **The "Smart Coffee" Baseline:** Continues **L-Theanine (200 mg)** in the morning to neutralize caffeine vasoconstriction and protect SHBG.
+*   **Zinc Dosage:** Maintained at **50 mg** to out-compete cadmium and correct critical deficiency (59 µg/dL).
+*   **HRV Rescue (Midday Reset):** Two-A-Day Meditation strategy (AM & Midday) to stop stress accumulation.
 *   **GlyNAC:** Combined NAC with Glycine (1:1 ratio) at bedtime for Glutathione support.
-*   **Vascular Protection:** Vitamin K₂ + Zone 2 Cardio to lower LDL-P and Resting Heart Rate.
 
 ---
 
@@ -33,7 +37,7 @@
 | Practice | Duration | Timing | Purpose |
 |-----------|-----------|---------|----------|
 | **Morning Meditation** | 15 min | 6:40 AM | Sets the baseline tone. Focus on natural breath with long, relaxed exhales. |
-| **Midday Reset** | 10–15 min | 12:30 PM | **Critical addition.** Stops daily stress accumulation to protect evening HRV and REM sleep. |
+| **Midday Reset** | 10–15 min | 12:30 PM | **Critical.** Stops daily stress accumulation to protect evening HRV and REM sleep. |
 | **Sunlight** | 5–10 min | AM / Noon | Anchors circadian rhythm. |
 
 ---
@@ -43,7 +47,7 @@
 | Time | Item | Notes |
 |------|------|-------|
 | **6:30 AM** | **Morning Meditation** | 15 minutes. |
-| **7:00 AM** | **Coffee (2 cups) + L-Theanine (200 mg)** | **The "Smart Stack."** Theanine blunts cortisol. Also add Collagen + Creatine. |
+| **7:00 AM** | **Coffee (2 cups) + L-Theanine (200 mg)** | **The "Smart Stack."** Blunts cortisol. Also add Collagen + Creatine. |
 | **7:30 AM** | **Workout Buffer** | Add 1/2 scoop Whey or small bite of food if training now (to prevent SHBG spike). |
 | **7:30 – 10:00 AM** | **Green tea (sipped gradually)** | Provides steady EGCG to lower inflammation. Stop by 10 AM. |
 | **8:15 AM Breakfast** | **Eggs or yogurt + fruit + nuts + whey protein isolate (35 g)** | Whey provides essential amino acids to lower SHBG. |
@@ -103,6 +107,7 @@ Protein + vegetables + complex carb (lentils / sweet potato) + olive oil.
 | Supplement | Dose | Timing | Purpose |
 |-------------|------|---------|----------|
 | **Magnesium glycinate** | 200–400 mg | 8:00 PM | Calms nervous system; boosts HRV. |
+| **L-Theanine** | **200–400 mg** | 8:00 PM | **New Addition.** Lowers glutamate excitability and promotes alpha waves to stabilize sleep. |
 | **GlyNAC** | 600-1000 mg **NAC** + 600-1000 mg **Glycine** | 9:00 PM (Empty Stomach) | **Critical.** Boosts glutathione, protects red blood cells, stabilizes REM sleep. |
 
 Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
@@ -113,7 +118,7 @@ Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
 
 | Supplement | Dose | Timing |
 |-------------|------|--------|
-| **L-Theanine** | 200 mg | Morning (with Coffee) |
+| **L-Theanine** | 200 mg (AM) <br> 200–400 mg (PM) | **Morning (w/ Coffee) & Evening (w/ Magnesium)** |
 | **Creatine monohydrate** | 3–5 g | Morning (with Coffee) |
 | **Whey protein isolate** | 35 g | Breakfast |
 | **Curcumin C3 Complex** | 500 mg × 2 | Breakfast & Lunch |
@@ -148,7 +153,7 @@ Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
 | **3:30 PM** | Myo-inositol + light snack |
 | **6:15 PM** | Berberine |
 | **6:30 – 7:00 PM** | Dinner + PM supplements |
-| **8:00 PM** | Magnesium |
+| **8:00 PM** | **Magnesium + L-Theanine (Evening Dose)** |
 | **8:30 PM** | Lights dim, wind down |
 | **9:00 PM** | GlyNAC, then sleep |
 | **7:00 PM – 7:00 AM** | Overnight fast (~12 h) |
@@ -164,4 +169,4 @@ Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
 | **LDL-P** | 1281 H | **< 1100** (Reduced particle burden) |
 | **Oura HRV** | 20-30 ms | **> 35 ms (Avg)** (Nervous system recovery) |
 | **Oura RHR** | ~64 bpm | **< 60 bpm (Avg)** (Vascular efficiency) |
-| **Oura REM** | Volatile | **Stable (>1h nightly)** (Glycine support) |
+| **Oura REM** | Volatile | **Stable (>1h nightly)** (Glycine + Theanine support) |
