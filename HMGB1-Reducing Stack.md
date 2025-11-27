@@ -1,15 +1,15 @@
-# ⚙️ HMGB1-Reducing Protocol — Optimized Clinical Version (v4.1)
+# ⚙️ HMGB1-Reducing Protocol — Optimized Clinical Version (v4.2)
 *A thyroid- and metabolism-safe anti-inflammatory plan focused on lowering HMGB1, supporting methylation, optimizing lipid particle quality, and raising Heart Rate Variability (HRV).*
 
-**Context:** Post-COVID Thyroiditis / Post-Snus Recovery / Missing Appendix  
 **Date:** November 2025
 
 ---
-### ★ Key Optimizations (v4.1)
-*   **HRV Rescue (Midday Reset):** Oura data shows "guarded" HRV. To counter this, we switched to a **Two-A-Day Meditation** strategy (AM & Midday). The midday session acts as a "pattern interrupt" to stop stress accumulation, which is critical for your nervous system recovery.
-*   **GlyNAC Upgrade:** Combined NAC with Glycine (1:1 ratio) at bedtime. This combination boosts Glutathione more effectively than NAC alone, clearing oxidative stress from the Post-COVID immune response and supporting REM sleep stability.
-*   **Vascular Protection:** Added **Vitamin K₂** to synergize with D3 (keeping calcium out of arteries given High LDL-P) and prioritized **Zone 2 Cardio** to lower Resting Heart Rate.
-*   **Zinc Restoration:** Aggressive Zinc supplementation to correct the deficiency likely caused by 45 years of cadmium exposure from snus.
+### ★ Key Optimizations (v4.2)
+*   **The "Smart Coffee" Upgrade:** Added **L-Theanine (200 mg)** to the morning coffee. This neutralizes the vasoconstriction and cortisol spike from caffeine, protecting your SHBG levels while promoting alpha-wave focus.
+*   **Zinc Dosage Update:** Adjusted to **50 mg** to aggressively out-compete the 45-year cadmium load and correct the critical deficiency (59 µg/dL).
+*   **HRV Rescue (Midday Reset):** Two-A-Day Meditation strategy (AM & Midday) to stop stress accumulation and raise HRV.
+*   **GlyNAC:** Combined NAC with Glycine (1:1 ratio) at bedtime for Glutathione support.
+*   **Vascular Protection:** Vitamin K₂ + Zone 2 Cardio to lower LDL-P and Resting Heart Rate.
 
 ---
 
@@ -22,8 +22,9 @@
 | 🥑 **Healthy Fats** | Olive oil (abundant), avocado, nuts, seeds, tahini, sardines. |
 | 🍠 **Safe Starches** | Purple/Sweet potatoes, white basmati rice, quinoa, root vegetables. *Avoid Brown Rice & Wheat.* |
 | 🥬 **Gut Support** | **Mandatory:** Sauerkraut or Kimchi with lunch/dinner (to replace appendix function). |
-| 🏋️ **Resistance Training** | 3 × per week, 30–45 min. *Critical for lowering SHBG.* |
-| 🏃 **Zone 2 Cardio** | 2-3 × per week, 30-45 min. *Target HR: 110-120 bpm. Critical for lowering LDL-P & RHR.* |
+| 🏋️ **Resistance Training** | 2-3 × per week, 30–45 min. *Critical for lowering SHBG.* |
+| 🏃 **Zone 2 Cardio** | Manual Labor (Dirt Hauling) counts as cardio. *Target HR < 105-115 bpm.* |
+| 🚶 **Daily Movement** | Housework / Movement breaks every 50 mins while coding. |
 
 ---
 
@@ -42,7 +43,8 @@
 | Time | Item | Notes |
 |------|------|-------|
 | **6:30 AM** | **Morning Meditation** | 15 minutes. |
-| **7:00 AM** | **Coffee (2 cups) + collagen (10–20 g) + creatine (3–5 g)** | Collagen supports gut lining; Creatine supports methylation/energy. |
+| **7:00 AM** | **Coffee (2 cups) + L-Theanine (200 mg)** | **The "Smart Stack."** Theanine blunts cortisol. Also add Collagen + Creatine. |
+| **7:30 AM** | **Workout Buffer** | Add 1/2 scoop Whey or small bite of food if training now (to prevent SHBG spike). |
 | **7:30 – 10:00 AM** | **Green tea (sipped gradually)** | Provides steady EGCG to lower inflammation. Stop by 10 AM. |
 | **8:15 AM Breakfast** | **Eggs or yogurt + fruit + nuts + whey protein isolate (35 g)** | Whey provides essential amino acids to lower SHBG. |
 
@@ -52,7 +54,7 @@
 - **Vitamin C 250–500 mg**  
 - **Methylated B-Complex** (1 cap) — *Targeting High MCV*  
 - **Selenium 200 µg** — *Targeting Thyroid Antibodies*  
-- **Zinc 25 mg** (picolinate or gluconate) — *Targeting Deficiency*  
+- **Zinc 50 mg** (picolinate or gluconate) — *Targeting Deficiency*  
 - **Myo-inositol 2 g**  
 - **Omega-3 (1.5 g EPA+DHA)** — *Targeting LDL-P & Inflammation*  
 - **CoQ10 (ubiquinol 100–200 mg)**  
@@ -111,14 +113,15 @@ Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
 
 | Supplement | Dose | Timing |
 |-------------|------|--------|
-| **Creatine monohydrate** | 3–5 g | Morning (with coffee) |
+| **L-Theanine** | 200 mg | Morning (with Coffee) |
+| **Creatine monohydrate** | 3–5 g | Morning (with Coffee) |
 | **Whey protein isolate** | 35 g | Breakfast |
 | **Curcumin C3 Complex** | 500 mg × 2 | Breakfast & Lunch |
 | **Quercetin** | 600 mg × 2 | Breakfast & Dinner |
 | **Vitamin C** | 250–500 mg × 2-3 | Breakfast, Lunch (opt), Dinner |
 | **Methylated B-Complex** | 1 cap | Breakfast |
 | **Selenium** | 200 µg | Breakfast |
-| **Zinc** | 25 mg | Breakfast |
+| **Zinc** | 50 mg | Breakfast |
 | **Myo-inositol** | 2 g × 2 | Breakfast & 3–4 PM |
 | **Omega-3 (high EPA/DHA)** | 1.5 g × 2 | Breakfast & Dinner (**3g total**) |
 | **CoQ10 (Ubiquinol)** | 100–200 mg | Split: Breakfast & Dinner* |
@@ -136,7 +139,7 @@ Lights dim by 8:30 PM. Sleep at 9:00 PM; wake 6:30 AM.
 | Time | Activity |
 |------|-----------|
 | **6:30 AM** | **Morning Meditation (15 min)** |
-| **7:00 AM** | Coffee (2 cups) + collagen + creatine |
+| **7:00 AM** | Coffee (2 cups) + **L-Theanine** + collagen + creatine |
 | **7:30 – 10:00 AM** | Green tea (4 cups total, sipped gradually) |
 | **8:15 AM** | Breakfast + whey protein + AM supplements |
 | **12:15 PM** | Berberine |
